@@ -1,0 +1,33 @@
+h2,p {
+    font-family:poppins;
+color: #172B4D;
+margin-left: 8vw;
+
+}
+p{
+    font-size: 12px;
+}
+h2{
+    padding-top: 3vh;
+}
+
+body{
+    background-image: url("bg1.png");
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-attachment: fixed;
+    margin-top: 10vh; 
+  }
+  .logo{
+    align-content: left top;
+    padding-top: 2vh;
+  }
+  .connect{
+      color:#6070FF;
+  }
+  .navigation{
+      background-color: white;
+  }
+  .bg{
+      z-index: -3;
+  }
